@@ -1,5 +1,3 @@
-// Sources flattened with hardhat v2.22.2 https://hardhat.org
-
 // SPDX-License-Identifier: MIT
 
 // File @openzeppelin/contracts/utils/Context.sol@v5.0.2
