@@ -33,6 +33,7 @@ Use the 'Mint' button to mint a new NFT. If no input address is provided, the NF
 Note: 
 - Each NFT costs 0.1 ETH to mint.
 - The contract is deployed on Sepolia Testnet
+- The contract can be viewed on [Etherscan](https://sepolia.etherscan.io/address/0x6594a2937366a5a09f0b7e640e34eb0a39112515)
 - You can view the collection on [Opensea](https://testnets.opensea.io/collection/arknights-at-1)
 - Currently metadata of only 3 NFTs is available 
 
